@@ -1,0 +1,33 @@
+html,
+body {
+    height:100%;
+    font: size 1rem; 
+    font-family: 'Lora', serif;
+}
+.gradient {
+    background: rgb(43,195,34);
+    background: linear-gradient(
+        146deg, 
+        rgba(43,195,34,0.6699054621848739) 0%, 
+        rgba(253,240,45,1) 100%
+    );
+}
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
+.feature {
+    color: white;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li{
+    padding-left: 2rem;
+    background-image: url(img/amoguscircle.png);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
