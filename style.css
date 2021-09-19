@@ -65,7 +65,10 @@ footer {
   margin: 0;
   padding: 1rem;
 }
-
+ 
+.white {
+  color: white;
+}
 
 a {
   color: white;
