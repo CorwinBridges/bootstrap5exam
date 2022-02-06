@@ -15,6 +15,7 @@ body {
 }
 
 .page-header {
+  margin-top: 4rem;
   font-size: 1.25rem;
   color: white;
 }
@@ -65,7 +66,7 @@ footer {
   margin: 0;
   padding: 1rem;
 }
- 
+
 .white {
   color: white;
 }
@@ -80,6 +81,3 @@ img {
   height: 100%;
 }
 
-.navbar .navbar-brand img {
-  height: 29px;
-}
